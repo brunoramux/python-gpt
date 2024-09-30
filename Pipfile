@@ -6,8 +6,11 @@ name = "pypi"
 [packages]
 openai = "*"
 python-dotenv = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
